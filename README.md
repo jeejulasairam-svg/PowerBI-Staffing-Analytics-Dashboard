@@ -41,13 +41,13 @@ To address this, I developed an interactive **Staffing Analytics Dashboard** usi
 
 * Measures recruiter productivity
 * KPIs: Submissions, Placements, Success Ratio
+  
 
-###  KPI Metrics
-
-* Submission-to-Placement Ratio
-* Time-to-Hire
-* Open vs Closed Requirements
-* Conversion Rates
+##  Key KPIs Explained
+- Submission to Placement Ratio → Measures hiring efficiency  
+- Time to Hire → Measures recruitment speed  
+- Recruiter Productivity → Tracks individual performance  
+- Open vs Closed Requirements → Tracks demand vs fulfillment 
 
 
 ##  Business Impact
@@ -72,12 +72,12 @@ To address this, I developed an interactive **Staffing Analytics Dashboard** usi
 * README
 
 
-##  Key Learnings
+## 📊 Key Insights
 
-* Real-world recruitment workflow understanding
-* KPI design for staffing analytics
-* Data visualization best practices
-* Business-oriented dashboard development
+  Identified stages with high candidate drop-off in recruitment funnel  
+- Highlighted top-performing recruiters based on placements  
+- Analyzed client demand to prioritize high-value requirements  
+- Improved visibility into hiring pipeline and delays  
 
 
 ##  Project Link
