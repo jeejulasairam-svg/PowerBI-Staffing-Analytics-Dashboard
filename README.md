@@ -5,71 +5,93 @@
 <img width="949" height="642" alt="1000086209" src="https://github.com/user-attachments/assets/665f3b8f-bcca-416d-9884-17222755fc4b" />
 <img width="949" height="642" alt="1000086208" src="https://github.com/user-attachments/assets/7130fd78-516b-435e-851c-b0b0cc6738d1" />
 
-# Power BI Staffing Analytics Dashboard
+# Staffing Analytics Dashboard (Power BI)
 
-## 📊 Project Overview
-This project is an end-to-end **Power BI Staffing Analytics Dashboard** created as part of my self-learning journey in data analytics.
+# Problem Statement
 
-The dashboard provides insights into:
-- Consultant workforce utilization
-- Bench vs working consultants
-- Client revenue and profitability
-- Invoice and payment status
-- Risk status of projects
+Staffing companies often struggle to track recruitment activities due to scattered data across multiple sources. This makes it difficult to monitor candidate progress, recruiter performance, and client requirements in real time.
 
-This project was built **without any formal coaching**, using self-learning resources such as YouTube, documentation, and hands-on practice.
+
+#  Solution
+
+To address this, I developed an interactive **Staffing Analytics Dashboard** using Power BI that provides a centralized view of the entire recruitment lifecycle—from candidate submission to final placement.
+
+
+#  Objectives
+
+* Track end-to-end recruitment pipeline
+* Monitor recruiter performance and productivity
+* Analyze client requirements and hiring demand
+* Identify bottlenecks in the hiring process
+* Enable data-driven decision making
+
+## Key Features
+
+### 🔹 Recruitment Pipeline Tracking
+
+* Visualizes candidate journey: Submission → Interview → Offer → Placement
+* Identifies drop-off stages in hiring process
+
+###  Client Requirement Analysis
+
+* Tracks open positions by client
+* Highlights high-demand roles and required skills
+
+###  Recruiter Performance Dashboard
+
+* Measures recruiter productivity
+* KPIs: Submissions, Placements, Success Ratio
+
+###  KPI Metrics
+
+* Submission-to-Placement Ratio
+* Time-to-Hire
+* Open vs Closed Requirements
+* Conversion Rates
+
+
+##  Business Impact
+
+* Improved visibility into recruitment operations
+* Helped identify bottlenecks in hiring process
+* Enhanced recruiter performance tracking
+* Enabled faster and smarter hiring decisions
+
+
+##  Tools & Technologies
+
+* Power BI (Data Visualization)
+* Excel (Data Source)
+
+
+##  Project Structure
+
+* Power BI Dashboard (.pbit / .pbix)
+* Dashboard Screenshots (PNG)
+* Project Documentation (PDF)
+* README
+
+
+##  Key Learnings
+
+* Real-world recruitment workflow understanding
+* KPI design for staffing analytics
+* Data visualization best practices
+* Business-oriented dashboard development
+
+
+##  Project Link
+
+https://github.com/jeejulasairam-svg/PowerBI-Staffing-Analytics-Dashboard
 
 ---
 
-## 🛠 Tools & Technologies
-- Power BI Desktop
-- Power Query (Data Cleaning & Transformation)
-- DAX (Calculated Measures & KPIs)
-- Excel (Source Data)
-- GitHub (Project Documentation)
+## Note
 
----
+This project is designed based on real-world staffing and recruitment scenarios to simulate practical business use cases.
 
-## 📈 Dashboard Pages
-1. **Executive Summary** – High-level KPIs and business snapshot  
-2. **Workforce & Bench Details** – Consultant utilization and bench analysis  
-3. **Operations Summary** – Employee, client, and billing overview  
-4. **Revenue & Profit Portfolio** – Client-wise revenue and profit insights  
-5. **Invoice Status** – Paid vs unpaid invoices and pending amounts  
-6. **Staffing Executive Portfolio** – Risk analysis and management insights  
 
----
-
-## 🔑 Key KPIs
-- Total Consultants
-- Working vs Bench Consultants
-- Total Revenue
-- Net Profit & Profit Margin
-- Active vs Inactive Clients
-- Invoice Paid vs Pending Amount
-- Project Risk Status (High / Medium / Safe)
-
----
-
-## 📂 Files in this Repository
-- `Staffing_Analytics_Dashboard.pbit` – Power BI Template File  
-- `Staffing_Analytics_Dashboard.pdf` – Dashboard Preview  
-- `README.md` – Project Documentation  
-
----
-
-## 🎯 Learning Outcome
-- Built real-world business KPIs using DAX  
-- Designed executive-level dashboards  
-- Understood staffing, billing, and revenue analytics  
-- Improved data storytelling and visualization skills  
-
----
-
-## 👤 About Me
-I am actively learning **Power BI and Data Analytics** and building real projects to strengthen my skills.  
-This dashboard reflects my practical understanding of analytics and business reporting.
 
 📌 *Open to entry-level Power BI / Data Analyst opportunities.*
 
----
+
